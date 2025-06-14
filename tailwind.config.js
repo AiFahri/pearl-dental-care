@@ -16,6 +16,12 @@ export default {
                 sans: ["Figtree", ...defaultTheme.fontFamily.sans],
                 lexend: ["Lexend", ...defaultTheme.fontFamily.sans],
             },
+            colors: {
+                primary: "#C9B8A6",
+                secondary: "#806444",
+                tertiary: "#BCA78C",
+                vanilla: "#F1E9DC",
+            },
         },
     },
 
