@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Link, usePage, router, route } from "@inertiajs/react";
+import { Link, usePage, router } from "@inertiajs/react";
 import logo from "../../../../public/LogoPDC.svg";
 import Button from "@/Components/UI/Button";
 
